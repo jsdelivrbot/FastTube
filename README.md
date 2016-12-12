@@ -1,6 +1,6 @@
-# ReduxSimpleStarter
+# FastTube
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Youtube Player with Instant Search
 
 ###Getting Started###
 
